@@ -1,6 +1,6 @@
 # Shortcut for Revancify
 
-Simple shortcut to get started with Revancify.
+Simple shortcut to get started with Revancify 𝕏isr.
 
 Supported only on Android 8.0+.
 
@@ -11,7 +11,7 @@ Supported only on Android 8.0+.
 echo 'allow-external-apps = true' >> ~/.termux/termux.properties && termux-reload-settings
 ```
 2. Grant permission to "display over other apps" in termux
-3. Run Revancify App
+3. Run Revancify 𝕏isr App
 
 ### License
 
