@@ -1,4 +1,4 @@
-# Shortcut for Revancify
+# Shortcut for Revancify 𝕏isr
 
 Simple shortcut to get started with Revancify 𝕏isr.
 
